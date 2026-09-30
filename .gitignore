@@ -42,3 +42,4 @@ build/
 ### Environment variables ###
 Account-Service/.env
 Ride-Management-Service/.env
+
